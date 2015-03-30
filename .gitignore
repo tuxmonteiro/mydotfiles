@@ -1,0 +1,158 @@
+# Compiled source #
+###################
+*.exe
+*.o
+*.out
+*.app
+*.pyc
+*.slo
+*.lo
+*.ko
+*.apk
+*.pif
+
+# Compiled Dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.lib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.rar
+*.tar
+*.tgz
+*.tbz
+*.tbz2
+*.zip
+*.cab
+*.msi
+# Python packages
+*.egg
+*.egg-info
+# Translations
+*.mo
+# Ruby packages
+*.gem
+*.rbc
+# RPM packages
+#*.rpm
+# Debian Packages
+*.deb
+# Midia
+*.iso
+*.vob
+*.bin
+*.cue
+*.dmg
+*.mdf
+*.toast
+*.vcd
+
+# Sound/Movies  #
+#################
+*.aif
+*.iff
+*.m3u
+*.m4a
+*.mid
+*.mp3
+*.mpa
+*.ra
+*.wav
+*.wma
+*.3g2
+*.3gp
+*.asf
+*.asx
+*.avi
+*.flv
+*.m4v
+*.mov
+*.mp4
+*.mpg
+*.rm
+*.swf
+*.wmv
+
+# Logs and databases #
+######################
+*.log
+log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.Trash
+ehthumbs.db
+Thumbs.db
+
+# Backups            #
+######################
+*.swp
+*.swo
+*~
+*~~
+*.bkp
+*.tmp
+
+# GO paths           #
+######################
+_obj
+_test
+
+# GO Architecture specific extensions/prefixes #
+################################################
+*.[568vq]
+[568vq].out
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+_testmain.go
+
+# JAVA #
+########
+*.class
+*.jar
+*.war
+*.ear
+
+# Misc #
+########
+*.torrent
+*.part
+*.crdownload
+*.doc
+*.docx
+*.odt
+*.xls
+*.xlsx
+*.ppt
+*.pps
+*.pptx
+*.pdf
+.settings/
+
+# eclipse
+.project
+.pydevproject

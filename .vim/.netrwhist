@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/m.monteiro/Documents/dev/export/PROJETOS/infra-etc/gitlab_deploy/config/deploy'
+let g:netrw_dirhist_2='/Users/m.monteiro/Documents/workspace-sts-3.4.0.RELEASE/openvraas/openvraas-services-impl/src/main/java/com/openvraas/services/impl/sched'
+let g:netrw_dirhist_3='/Users/m.monteiro/Documents/dev/export/PROJETOS/infra-etc/module-supso/puppet/modules/supso/manifests/default'
